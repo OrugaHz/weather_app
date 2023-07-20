@@ -8,7 +8,7 @@ const temperature = document.querySelector('.temperature')
 const humidity = document.querySelector('.humidity')
 
 const API_LINK = 'https://api.openweathermap.org/data/2.5/weather?q='
-const API_KEY = '&appid=5114272850fa0b1a454038c43b32ec14'
+const API_KEY = 'removed'
 const API_UNITS = '&units=metric'
 
 const getWeather = () => {
